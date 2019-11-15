@@ -1,0 +1,11 @@
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\bin\Debug\netcoreapp3.0\JeuMonstre.exe
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\bin\Debug\netcoreapp3.0\JeuMonstre.deps.json
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\bin\Debug\netcoreapp3.0\JeuMonstre.runtimeconfig.json
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\bin\Debug\netcoreapp3.0\JeuMonstre.runtimeconfig.dev.json
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\bin\Debug\netcoreapp3.0\JeuMonstre.dll
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\bin\Debug\netcoreapp3.0\JeuMonstre.pdb
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\obj\Debug\netcoreapp3.0\JeuMonstre.csprojAssemblyReference.cache
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\obj\Debug\netcoreapp3.0\JeuMonstre.AssemblyInfoInputs.cache
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\obj\Debug\netcoreapp3.0\JeuMonstre.AssemblyInfo.cs
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\obj\Debug\netcoreapp3.0\JeuMonstre.dll
+C:\Users\Chloe\source\repos\JeuMonstre\JeuMonstre\obj\Debug\netcoreapp3.0\JeuMonstre.pdb
